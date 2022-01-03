@@ -4,7 +4,7 @@ I'm a student that is interested in programming, I have experiece with Python an
 
 - 👀 I’m working on improving my skills in programming.
 - 💞️ I’m looking to collaborate with awesome people like you.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - 📫 To contact me, just mail on midnightlamp01@gmail.com
 
 #### Most Used Languages
